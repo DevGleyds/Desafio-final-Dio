@@ -3,6 +3,8 @@
 <br>
 <h3 align="center"> O projeto e sua construção </h3>
 <br>
-<p>Neste projeto foi usado como auxilio a IA em sua contrução, usando o Chat GPT 3.5 consegui construir o código e ajustar onde eu vi necessidade.</p>
+<p>Neste projeto foi usado como auxilio a IA em sua contrução, usando o Chat GPT 3.5 consegui construir o código e ajustar onde eu vi necessidade.
+ <br>
  Hoje em dia com o suporte das IAs, notei a necessidade de usá-la como minha aliada no dia-a-dia e nos desafios de código.
- E passo a passo conquistamos a evolução, em busca sempre de novos conhecimentos e soluções 🙌👏
+ <br>
+ E passo a passo conquistamos a evolução, em busca sempre de novos conhecimentos e soluções 🙌👏 </p>
